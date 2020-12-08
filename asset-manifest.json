@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ahmedshakil01/movies-series-app/static/css/main.c14106c4.chunk.css",
+    "main.js": "/Ahmedshakil01/movies-series-app/static/js/main.5bf626f9.chunk.js",
+    "main.js.map": "/Ahmedshakil01/movies-series-app/static/js/main.5bf626f9.chunk.js.map",
+    "runtime-main.js": "/Ahmedshakil01/movies-series-app/static/js/runtime-main.eca16162.js",
+    "runtime-main.js.map": "/Ahmedshakil01/movies-series-app/static/js/runtime-main.eca16162.js.map",
+    "static/js/2.a3fb8a9d.chunk.js": "/Ahmedshakil01/movies-series-app/static/js/2.a3fb8a9d.chunk.js",
+    "static/js/2.a3fb8a9d.chunk.js.map": "/Ahmedshakil01/movies-series-app/static/js/2.a3fb8a9d.chunk.js.map",
+    "static/js/3.02332a1e.chunk.js": "/Ahmedshakil01/movies-series-app/static/js/3.02332a1e.chunk.js",
+    "static/js/3.02332a1e.chunk.js.map": "/Ahmedshakil01/movies-series-app/static/js/3.02332a1e.chunk.js.map",
+    "index.html": "/Ahmedshakil01/movies-series-app/index.html",
+    "static/css/main.c14106c4.chunk.css.map": "/Ahmedshakil01/movies-series-app/static/css/main.c14106c4.chunk.css.map",
+    "static/js/2.a3fb8a9d.chunk.js.LICENSE.txt": "/Ahmedshakil01/movies-series-app/static/js/2.a3fb8a9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eca16162.js",
+    "static/js/2.a3fb8a9d.chunk.js",
+    "static/css/main.c14106c4.chunk.css",
+    "static/js/main.5bf626f9.chunk.js"
+  ]
+}
